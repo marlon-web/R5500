@@ -178,11 +178,12 @@
     #room {
         background: url("../images/imagem-meio-tv-ambiente.jpg");
         background-repeat: no-repeat;
-        background-size: 160%;
+        background-size: 100%;
         background-position: center top;
     }
     #room-purple-box-desk {
         margin-top: 520px;
+        max-width: 900px;
     }
     #console-image {
         transform: scale(2.0);
